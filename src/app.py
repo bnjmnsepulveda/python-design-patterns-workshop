@@ -1,6 +1,7 @@
 from patterns.objectmother import ferrari_objectmother
+from patterns.time_annotation import time_minutes
 
-
+#@time_minutes
 def main():
 
     benjamin_garage = [
